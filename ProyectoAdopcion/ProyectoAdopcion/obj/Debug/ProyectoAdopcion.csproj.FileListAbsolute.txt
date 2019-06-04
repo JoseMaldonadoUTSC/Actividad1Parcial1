@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe.config
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.pdb
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.exe
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.pdb
+C:\Users\Alumno\Desktop\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.csprojResolveAssemblyReference.cache
